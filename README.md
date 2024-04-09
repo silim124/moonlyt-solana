@@ -6,38 +6,44 @@
 
 ## NFT Platform for Webtoon Enthusiasts and Creators
 
-The 'Moonlyt' project is a novel platform designed for webtoon enthusiasts and creators with a unique flair. We are revolutionizing the way webtoon content is created, shared, and monetized.
+Welcome to Moonlyt, a groundbreaking platform designed for webtoon enthusiasts and creators alike. We're changing the landscape of webtoon content creation, sharing, and monetization.
 
 ## 📚 Documentation
 
-For more detailed information, please visit our [Docs](https://docs.moonlyt.net).
+For comprehensive information about Moonlyt, please refer to our [Documentation](https://docs.moonlyt.net).
 
 ## 🖼️ Demo Site
 
-Experience Moonlyt in action: [Moonlyt Demo](https://vite-moonlyt.vercel.app/).
+Experience Moonlyt firsthand by visiting our [Demo Site](https://vite-moonlyt.vercel.app/).
 
 ## 📈 Pitch Deck
 
-Explore Moonlyt's vision, strategy, and potential: [See Our Pitch Deck](https://drive.google.com/file/d/1ZdP4uAY5MOowQmdfCYprny7XSTT8fhCQ/view?usp=drive_link).
+To understand our vision, strategy, and potential impact, take a look at [Our Pitch Deck](https://drive.google.com/file/d/1ZdP4uAY5MOowQmdfCYprny7XSTT8fhCQ/view?usp=drive_link).
+
+## 🎥 Demo Video
+
+Watch our demo video [here](https://drive.google.com/file/d/1Qx0hRy8mJ2jClNm839F0PGD4GAJEw1n6/view?usp=drive_link).
 
 ## 💰 Tokenomics
 
 ### Revenue Redistribution Mechanism 💸
 
-Revenues generated from the works are used to purchase MYLT tokens, which are then fairly distributed among NFT-holding investors and authors.
+The revenue generated from the works on Moonlyt is utilized to purchase MYLT tokens, which are then fairly distributed among NFT-holding investors and authors.
 
 ### Token Scarcity and Value Appreciation 📈
 
-The total quantity of tokens is limited, ensuring their scarcity. As revenue increases, the value of the tokens has the potential to rise.
+We've ensured the scarcity of MYLT tokens, making them a valuable asset. As the revenue increases, the value of these tokens has the potential to rise.
 
 ### Opportunities for Reinvestment and Sustained Interest 💵
 
-This system offers attractive reinvestment opportunities for investors and fosters continued interest in the authors' creations.
+Investors are presented with attractive reinvestment opportunities, fostering continued interest in the creations of our authors.
 
 ### A New Model for Revenue Sharing 🤝
 
-Directly benefiting creators and investors from the commercial success of the works, presenting a new model of revenue sharing in the webtoon industry.
+We're pioneering a model of revenue sharing in the webtoon industry that directly benefits creators and investors from the commercial success of the works.
 
 ### Promoting Sustainable Growth 🌱
 
-Enhancing the creative drive of authors and offering valuable investment opportunities for investors, thereby fostering sustainable growth in the webtoon industry.
+By enhancing the creative drive of authors and offering valuable investment opportunities, Moonlyt aims to foster sustainable growth in the webtoon industry.
+
+
